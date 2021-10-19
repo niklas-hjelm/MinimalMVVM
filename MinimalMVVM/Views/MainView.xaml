@@ -12,7 +12,5 @@
     ResizeMode="NoResize"
     SizeToContent="WidthAndHeight"
     mc:Ignorable="d">
-
-    <views:ConverterControl />
-
+    <views:ConverterView />
 </Window>
